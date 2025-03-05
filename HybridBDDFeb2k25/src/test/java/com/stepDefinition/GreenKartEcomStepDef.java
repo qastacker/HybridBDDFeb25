@@ -16,17 +16,15 @@ public class GreenKartEcomStepDef {
 	GreenKartPageObjects gkPOM;
 	GKHomePage GKHP;
 	
-	public GreenKartEcomStepDef(GreenKartTxtContentSetup GKTxtCP) throws Exception {
-		//GKTxtCP = new GreenKartTxtContentSetup();
-		this.GKTxtCP=GKTxtCP;
+	public GreenKartEcomStepDef() throws Exception {
+		GKTxtCP = new GreenKartTxtContentSetup();
 		this.GKHP = GKTxtCP.gkPOM.getGKHomePage();
 	}
 	
 	@Given("I want to Launch the GreenKart")
 	public void i_want_to_launch_the_green_kart() {
 		Assert.assertTrue(GKHP.getGKPageTitle().contains("GreenKart"));
-	} 
-	
+	}
 
 	
 }
