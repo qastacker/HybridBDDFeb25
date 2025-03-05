@@ -1,4 +1,4 @@
-package utilities;
+package com.utilities;
 
 import java.io.FileInputStream;
 import java.time.Duration;
@@ -13,7 +13,7 @@ public class testBase {
 	public WebDriver driver;
 
 	public WebDriver WebDriverManager() throws Exception {
-		FileInputStream fis = new FileInputStream(System.getProperty("user.dir")+"\\src\\test\\resource");
+		FileInputStream fis = new FileInputStream(System.getProperty("user.dir")+"\\src\\test\\resource\\Base.properties");
 		Properties prop = new Properties();
 		prop.load(fis);
 		

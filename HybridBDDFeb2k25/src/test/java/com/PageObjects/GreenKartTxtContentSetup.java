@@ -2,7 +2,7 @@ package com.PageObjects;
 
 import org.openqa.selenium.WebDriver;
 
-import utilities.testBase;
+import com.utilities.testBase;
 
 
 public class GreenKartTxtContentSetup {
@@ -16,4 +16,5 @@ public class GreenKartTxtContentSetup {
 		TesTBase = new testBase();
 		gkPOM = new GreenKartPageObjects(TesTBase.WebDriverManager());
 	}
+	
 }

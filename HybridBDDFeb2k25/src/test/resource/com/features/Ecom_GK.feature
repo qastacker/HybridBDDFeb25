@@ -1,9 +1,8 @@
 
 
 Feature: RS Ecom Practise
-  I want to Purchase Fruits and Vegetable Orders
 
-  @PlaceOrder
+  @PlaceOrderer
   Scenario: Basic Purchase
     Given I want to Launch the GreenKart
     
