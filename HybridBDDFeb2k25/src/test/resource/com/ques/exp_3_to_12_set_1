@@ -1,0 +1,119 @@
+
+	First round 
+	1. In an array print the second smallest and second largest element 
+	Ans:
+
+	Second Round 
+	1. Introduce yourself 
+	Ans:
+
+	2. What are your current roles and responsibilities 
+	Ans:
+
+	3. Which oops concepts you have implemented 
+	Ans:
+	
+	4. How have you implemented abstraction and encapsulation 
+	Ans:
+	
+	5. Explain the exception hierarchy 
+	Ans:
+	
+	6. How have you handled null pointer exception 
+	Ans:
+	
+	7. What is compile time and run time polymorphism? How have you implemented them?
+	Ans:
+	
+	8. Can you create an object of an interface?
+	Ans:
+
+	9. Can you call a method from an interface that you have not implemented in any class?
+	Ans:
+
+	10. Can you overload and override static methods 
+	Ans:
+
+	11. What is the difference between stringbuilder and stringbuffer
+	Ans:
+
+	12. What is the difference between array list and Linked list
+	Ans:
+
+	13. What is map
+	Ans:
+
+	14. What is set and how is it different from list and map
+	Ans:
+
+	15. How do you define singleton class? What is it's use
+	Ans:
+
+	16. Write xpath for the search button on Google 
+	Ans:
+
+	17. Write selenium code to enter text
+	Ans:
+
+	18. How do you scroll to an element?
+	Ans:
+
+	19. How to take screenshot of a web element?
+	Ans:
+
+	20. What are the activities we can perform using javascriptExecutor 
+	Ans:
+
+	21. How do you switch to frame? How to detect frames
+	Ans:
+
+	22. How to get all the available values in select drop-down?
+	Ans:
+
+	23. How to handle alerts ?
+	Ans:
+
+	24. How to switch to child window?
+	Ans:
+
+	25. What are the options available in cucumber options 
+	Ans:
+
+	26. How can I run a scenario multiple times 
+	Ans:
+
+	27. How can I run certain activities for all scenarios multiple times 
+	Ans:
+
+	28. How have you handled synchronisation 
+	Ans:
+
+	29. How do you execute your test cases in your framework 
+	Ans:
+
+	30. How to re execute failed tests
+	Ans:
+
+	31. What is the use of test runner in cucumber 
+	Ans:
+
+	32. How do you perform cross browser testing 
+	Ans:
+
+	Third Round 
+	1. What are your current role and responsibilities 
+	Ans:
+
+	2. Can you work as an individual contributor 
+	Ans:
+
+	3. How do you resolve conflicts in Git
+	Ans:
+
+	4. Given an array {1,3,3,4,5,6,6,7,8,9,9} when user enters a search element, the program should display the index number where the element is found. If the element is repeated it should display all those indices. If it is not present in the given array program should display "element not found"
+	Ans:
+
+	5. Discussion of project specific details
+	Ans:
+
+}

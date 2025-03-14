@@ -5,6 +5,7 @@ Feature: RS Ecom Practise
   @PlaceOrderer
   Scenario: Basic Purchase
     Given I want to Launch the GreenKart
+    Then Check the list of "RootVegetables" displayed
     
     
     #And some other precondition
